@@ -1,5 +1,5 @@
 function Register() {
-    return(
+    return( 
         <div className="base-container">
             <div className="header"> Register </div>
             <div className="content">
